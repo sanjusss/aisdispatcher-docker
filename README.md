@@ -1,4 +1,5 @@
+ï»¿
 # aisdispatcher-docker
 Run aisdispatcher in docker.  
 
-×¢Òâ£ºÃüÁîÊ¾ÀıÓĞ´íÎó¡£ -h ÊÇÊı¾İÔ´µÄip£¬-H ÊÇAIS HUB ·şÎñÆ÷µÄIP¡£
+æ³¨æ„ï¼šå‘½ä»¤ç¤ºä¾‹æœ‰é”™è¯¯ã€‚ -h æ˜¯æ•°æ®æºçš„ipï¼Œ-H æ˜¯AIS HUB æœåŠ¡å™¨çš„IPã€‚
